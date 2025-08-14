@@ -1,0 +1,1 @@
+{"name":"Local: 2009A_Minimize!","url":"d:\\All_Codes\\CP\\Codeforces_Problems\\ProblemSets\\2009A_Minimize!.cpp","tests":[{"id":1755068914186,"input":"3\n1 2\n3 10\n5 5\n","output":"1\n7\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\All_Codes\\CP\\Codeforces_Problems\\ProblemSets\\2009A_Minimize!.cpp","group":"local","local":true}
